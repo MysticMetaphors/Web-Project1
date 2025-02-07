@@ -11,24 +11,7 @@
     <title>Sign In Form</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-
-    <style>
-        body {
-            background: url("https://img.freepik.com/free-vector/white-abstract-wallpaper_23-2148830028.jpg");
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
-        }
-
-        .card {
-            padding: 80px;
-            box-shadow: 0px 0px 10px 1px black;
-        }
-
-        .btn {
-            margin-top: 20px;
-        }
-    </style>
+    <link rel="stylesheet" href="css\login.css">
 </head>
 
 <body>
